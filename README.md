@@ -19,7 +19,7 @@ This dataset includes edge cases, such as boats at the verge of the water and th
 
 ## Contents
 
-- `models/iseeyou.onnx`: The ONNX file of the trained model. [Download here](https://drive.google.com/file/d/your-file-id/view?usp=sharing)
+- `models/iseeyou.onnx`: The ONNX file of the trained model. [Download here]([https://drive.google.com/file/d/your-file-id/view?usp=sharing](https://drive.google.com/file/d/1iBXK_4eyBp0m7uoDkIfceDtoqacizSGo/view?usp=drive_link))
 - `iseeyou.onnx.svg`: A screenshot of the neural network architecture.
 
 ## Training Details
