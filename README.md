@@ -40,4 +40,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-Special thanks to everyone who contributed to the development and training of this model. The Boat-MNIST dataset and starter code were obtained from [[source of the data and starter code](https://macvi.org/dataset)].
+Special thanks to everyone who contributed to the development and training of this model. The Boat-MNIST dataset and starter code were obtained from the [[Maritime Computer Vision Initiative](https://macvi.org/dataset)].
